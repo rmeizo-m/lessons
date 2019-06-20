@@ -1,0 +1,15 @@
+p.tuk{
+  color: red;
+}
+
+h2.tuk{
+  color: blue;
+}
+
+#test p{
+  color: green;
+}
+
+#test h2{
+  color: pink;
+}
