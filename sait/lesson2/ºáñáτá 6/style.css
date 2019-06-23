@@ -1,0 +1,39 @@
+body, h1{
+  margin: 0;
+}
+
+h1, h2{
+  text-align: center;
+  margin-bottom: 15px;
+}
+h1{margin-top: 15px;
+  color: #007500;
+}
+
+#div{
+  margin: 10px auto;
+  width: 700px;
+  text-align: justify;
+  padding: 0px 15px;
+  border: 2px dashed green;
+  border-radius: 15px;
+}
+
+p{
+  text-align: right;
+  color:  #007500;
+  font: 15px/20px Arial;
+}
+.h2 a:link, .h2 a:visited{
+  color: green;
+}
+.h2 a:hover, .h2 a:active{
+  text-decoration: none;
+}
+a:link, a:visited{
+  color: green;
+  font-weight: bold;
+}
+a:hover, a:active{
+  text-decoration: none;
+}
